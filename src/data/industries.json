@@ -1,0 +1,173 @@
+[
+  {
+    "label": "Energy",
+    "options": [
+      {
+        "label": "Energy Equipment & Services",
+        "value": "Energy Equipment & Services"
+      },
+      {
+        "label": "Oil, Gas & Consumable Fuels",
+        "value": "Oil, Gas & Consumable Fuels"
+      }
+    ]
+  },
+  {
+    "label": "Materials",
+    "options": [
+      {
+        "label": "Chemicals",
+        "value": "Chemicals"
+      },
+      {
+        "label": "Construction Materials",
+        "value": "Construction Materials"
+      },
+      {
+        "label": "Containers & Packaging",
+        "value": "Containers & Packaging"
+      },
+      {
+        "label": "Metals & Mining",
+        "value": "Metals & Mining"
+      },
+      {
+        "label": "Paper & Forest Products",
+        "value": "Paper & Forest Products"
+      }
+    ]
+  },
+  {
+    "label": "Industrials",
+    "options": [
+      {
+        "label": "Capital Goods",
+        "value": "Capital Goods"
+      },
+      {
+        "label": "Commercial & Professional Services",
+        "value": "Commercial & Professional Services"
+      },
+      {
+        "label": "Transportation",
+        "value": "Transportation"
+      }
+    ]
+  },
+  {
+    "label": "Consumer Discretionary",
+    "options": [
+      {
+        "label": "Automobiles & Components",
+        "value": "Automobiles & Components"
+      },
+      {
+        "label": "Consumer Durables & Apparel",
+        "value": "Consumer Durables & Apparel"
+      },
+      {
+        "label": "Consumer Services",
+        "value": "Consumer Services"
+      },
+      {
+        "label": "Media",
+        "value": "Media"
+      },
+      {
+        "label": "Retailing",
+        "value": "Retailing"
+      }
+    ]
+  },
+  {
+    "label": "Consumer Staples",
+    "options": [
+      {
+        "label": "Food & Staples Retailing",
+        "value": "Food & Staples Retailing"
+      },
+      {
+        "label": "Food, Beverage & Tobacco",
+        "value": "Food, Beverage & Tobacco"
+      },
+      {
+        "label": "Household & Personal Products",
+        "value": "Household & Personal Products"
+      }
+    ]
+  },
+  {
+    "label": "Health Care",
+    "options": [
+      {
+        "label": "Health Care Equipment & Services",
+        "value": "Health Care Equipment & Services"
+      },
+      {
+        "label": "Pharmaceuticals, Biotechnology & Life Sciences",
+        "value": "Pharmaceuticals, Biotechnology & Life Sciences"
+      }
+    ]
+  },
+  {
+    "label": "Financials",
+    "options": [
+      {
+        "label": "Banks",
+        "value": "Banks"
+      },
+      {
+        "label": "Diversified Financials",
+        "value": "Diversified Financials"
+      },
+      {
+        "label": "Insurance",
+        "value": "Insurance"
+      }
+    ]
+  },
+  {
+    "label": "Information Technologies",
+    "options": [
+      {
+        "label": "Software & Services",
+        "value": "Software & Services"
+      },
+      {
+        "label": "Technology Hardware & Equipment",
+        "value": "Technology Hardware & Equipment"
+      },
+      {
+        "label": "Semiconductors & Semiconductor Equipment",
+        "value": "Semiconductors & Semiconductor Equipment"
+      }
+    ]
+  },
+  {
+    "label": "Telecommunication Services",
+    "options": [
+      {
+        "label": "Telecommunication Services",
+        "value": "Telecommunication Services"
+      }
+    ]
+  },
+  {
+    "label": "Utilites",
+    "options": [
+      {
+        "label": "Utilities",
+        "value": "Utilities"
+      }
+    ]
+  },
+  {
+    "label": "Real Estate",
+    "options": [
+      {
+        "label": "Real Estate",
+        "value": "Real Estate"
+      }
+    ]
+  }
+]
